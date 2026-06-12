@@ -113,7 +113,7 @@ A CLIP + FAISS powered semantic retrieval system supporting text, image, and voi
 ---
 
 ### 🏥 Healer AI
-🔗 Repository: https://github.com/sudoSubh/Healer--Ai
+🔗 Repository: https://github.com/Prateeek69/Healer--Ai
 
 A multilingual healthcare platform providing AI-powered symptom checking and healthcare accessibility solutions.
 
