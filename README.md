@@ -146,6 +146,7 @@ A full-stack hotel booking platform featuring AI-powered recommendations, search
 
 **🔗 https://portfolio-prateeks.vercel.app/**
 
+RESUME -> https://drive.google.com/file/d/1dQ3QpJj2xJkYzrRGEjCGwabCQ96-MVxZ
 ---
 
 
