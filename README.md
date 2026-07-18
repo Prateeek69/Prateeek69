@@ -20,7 +20,7 @@
 ## 🚀 About Me
 
 - 🎓 B.Tech CSE @ OUTR (2023–2027)
-- 📊 Current CGPA: **9.11**
+- 📊 Current CGPA: **9.2**
 - 🤖 Interested in AI Engineering, Agentic Systems, and Full Stack Development
 - 🌱 Currently learning System Design, RAG, and Local AI Architectures
 - 💡 Love building products that combine AI with practical use cases
